@@ -4,5 +4,5 @@ owo~
 **nuzzles ur neck wecky~**
 > Rawr
 > # Eggs eggs eggs
- ![Image](![Nyanners_Thumbnail](https://user-images.githubusercontent.com/97714611/149443470-d8f331e5-24e2-43d4-b953-c4424c21aa72.png)
-) 
+
+![Nyanners_Thumbnail](https://user-images.githubusercontent.com/97714611/149443783-7afdf604-3708-4030-8d45-b32dbaa25411.png)
