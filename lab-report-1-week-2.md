@@ -2,7 +2,7 @@
 
 Bryan Nguyen A16661105
 
-##1. VScode: 
+## 1. VScode: 
 Go to the VScode website and download it. Follow the instructions on the installer. Download here at https://code.visualstudio.com/.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/97714611/149601654-52d643bd-2b38-4428-ae0e-f3b384a2ca66.png)
