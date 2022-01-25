@@ -32,3 +32,5 @@ Then use ssh keygen on your pc. Then log into the ssh and make a directory by ty
 You can add a command in quotations at the end of the ssh command to run it, or add semicolons to run multiple.
 
 ![Screenshot_7](https://user-images.githubusercontent.com/97714611/149602796-2f0f894b-3578-421a-95f6-8e01516eac7c.png)
+
+By doing this, you save 
