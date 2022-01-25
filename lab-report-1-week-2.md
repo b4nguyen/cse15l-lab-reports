@@ -14,17 +14,17 @@ Open VScode and press ctrl + ` to open the terminal. Type in ```"ssh cs15lwi22zz
 ![Screenshot_3](https://user-images.githubusercontent.com/97714611/149601963-7c29bde3-36d8-41e1-a57d-d6839d5b407e.png)
 
 ## 3. Trying out commands:
-Now you can try some commands. Some basic ones are ls (lists files in directory), cd (changes directory), and mkdir (makes directory).
+Now you can try some commands. Some basic ones are ```ls``` (lists files in directory), ```cd``` (changes directory), and ```mkdir``` (makes directory).
 
 ![Screenshot_4](https://user-images.githubusercontent.com/97714611/149602056-25e1db70-bfba-4683-8cba-237701a59551.png)
 
 ## 4. Moving a file: 
-You can move a file to SSH by using the scp command. Just type scp (filename) cs15lwi22zz@ieng6.ucsd.edu:~/.
+You can move a file to SSH by using the ```scp``` command. Just type ```scp (filename) cs15lwi22zz@ieng6.ucsd.edu:~/.```
 
 ![Screenshot_5](https://user-images.githubusercontent.com/97714611/149602366-795142c0-973b-4481-83fe-7718735ea134.png)
 
 ## 5. SSH keygen: 
-Then use ssh keygen on your pc. Then log into the ssh and make a directory by typing mkdir .ssh. Logout, go back to your pc, and copy the key to your ssh directory.
+Then use ssh keygen on your pc. Then log into the ssh and make a directory by typing ```mkdir .ssh```. Logout, go back to your pc, and copy the key to your ssh directory.
 
 ![Screenshot_6](https://user-images.githubusercontent.com/97714611/149602719-4b82287e-d723-46c5-94d8-eb93fc5d89a5.png)
 
