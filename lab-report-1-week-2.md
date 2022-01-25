@@ -9,7 +9,7 @@ Go to the VScode website and download it. Follow the instructions on the install
 
 
 ## 2. Connecting to ssh:
-Open VScode and press ctrl + ` to open the terminal. Type in "ssh cs15lwi22zz@ieng6.ucsd.edu" but replace zz with the letters in your account. Then type in your password.
+Open VScode and press ctrl + ` to open the terminal. Type in ```"ssh cs15lwi22zz@ieng6.ucsd.edu"``` but replace zz with the letters in your account. Then type in your password.
 
 ![Screenshot_3](https://user-images.githubusercontent.com/97714611/149601963-7c29bde3-36d8-41e1-a57d-d6839d5b407e.png)
 
