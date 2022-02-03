@@ -33,4 +33,4 @@ You can add a command in quotations at the end of the ssh command to run it, or 
 
 ![Screenshot_7](https://user-images.githubusercontent.com/97714611/149602796-2f0f894b-3578-421a-95f6-8e01516eac7c.png)
 
-By doing this, you save all the keystrokes that your password would have taken + you save the keystrokes you would have used to press the enter key and run multiple commands.
+By doing this, you save all the keystrokes that your password would have taken + you save the keystrokes you would have used to press the enter key and run multiple commands. It takes me about 47 keystrokes to do this the normal way, and only 32 keystrokes this way.
