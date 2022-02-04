@@ -6,7 +6,7 @@ Bryan Nguyen A16661105
 
 ## 1. Code Change One: 
 
-Test File link: https://github.com/b4nguyen/markdown-parse/blob/main/test-file2.md (test-file2.md)
+Test File link: [File_2](https://github.com/b4nguyen/markdown-parse/blob/main/test-file2.md) (test-file2.md)
 
 Error given when run:
 
@@ -24,7 +24,7 @@ Due to the fact that the code has a bug where there is a while loop that continu
 
 ## 2. Code Change Two: 
 
-Test File link: https://github.com/b4nguyen/markdown-parse/blob/main/test-file3.md (test-file3.md)
+Test File link: [File_3](https://github.com/b4nguyen/markdown-parse/blob/main/test-file3.md) (test-file3.md)
 
 Error given when run:
 
@@ -41,7 +41,7 @@ Here the failure inducing input is a file with only closed square brackets and n
 
 ## 3. Code Change Three: 
 
-Test File link: https://github.com/b4nguyen/markdown-parse/blob/main/test-file8.md (test-file3.md)
+Test File link: [File_4](https://github.com/b4nguyen/markdown-parse/blob/main/test-file8.md) (test-file3.md)
 
 Error given when run:
 
