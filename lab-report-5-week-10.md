@@ -3,7 +3,8 @@
 Bryan Nguyen A16661105
 
 [Link to my repo](https://github.com/b4nguyen/markdown-parse)
-[Link to other repo](https://github.com/ucsd-cse15l-w22/markdown-parse)
+
+[Link to lab repo](https://github.com/ucsd-cse15l-w22/markdown-parse)
 
 ## How I found the different results:
 I put both outputs into txt files and paired the outputs with the file names. Then I just looked at both of them side by side and found the differences manually.
