@@ -6,7 +6,7 @@ Bryan Nguyen A16661105
 [Link to other group's repo](https://github.com/aajc/markdown-parse)
 [Link to the other group's repo where I edited the tests](https://github.com/b4nguyen/markdown-parse2)
 
-##Expected Outputs:
+## Expected Outputs:
 Snippet 1: [`google.com, google.com, ucsd.edu]
 Snippet 2: [a.com, a.com(()), example.com]
 Snippet 3: [https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]
